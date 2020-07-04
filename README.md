@@ -10,7 +10,7 @@ I am many thngs to many people
 
 👨‍⚕️ I am also the President — and a founding member — of [Walk AS One](https://walkasone.org/), a 501c3 non-profit based in Maine. Walk AS One is *“an all-volunteer organization that mobilizes and motivates a global community to raise awareness and address the challenges of those affected by Ankylosing Spondylitis and its family of related diseases.”* As a patient with Ankylosing Spondylitis, this charity is obviously dear to my heart.
 
-:us: In 2014, my family and I moved from the United Kingdom to the United States. It was at this time that I gave up my career as a registered nurse and became a stay-at-home dad. I used to think that I was underpaid and under-appreciated before; how wrong was I?
+In 2014, my family and I moved from the United Kingdom to the United States. It was at this time that I gave up my career as a registered nurse and became a stay-at-home dad. I used to think that I was underpaid and under-appreciated before; how wrong was I?
 
 🥋 I am also a martial artist, holding the rank of Nidan in Shaolin Kempo. I train as regularly as my schedule allows, and I teach as much as I can. Every time I am in the dojo, I learn something new. I love it! It helps me grow as a person, daily.
 
