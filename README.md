@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am many thngs to many people
+I am many things to many people
 
 💻 Principally, I’m the owner of [White Lion Media](https://whitelionmedia.com/), a digital content creation company. Primary the company builds and designs websites for individuals and small businesses in need of a web presence so that they can serve their customers and/or grow their business. But we also provide copywriting and consulting services for our clients.
 
