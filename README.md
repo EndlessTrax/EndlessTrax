@@ -10,7 +10,7 @@
 
 👨‍⚕️ I used to be a registered nurse. 
 
-🥋 I'm also a [martial artist](https://endlesstrax.com/brief-history-of-my-martial-arts-journey/), holding the rank of Nidan (second degree balck belt) in Shaolin Kempo.
+🥋 I'm also a [martial artist](https://endlesstrax.com/brief-history-of-my-martial-arts-journey/), holding the rank of Nidan (second degree black belt) in Shaolin Kempo.
 
 🌲 I collect and maintain a modest Bonsai collection
 
