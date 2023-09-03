@@ -1,14 +1,16 @@
 # 👋 Hi friend!
 
-## Some facts about me
+I'm Ricky and I came into tech from a non-traditional background. I'm an enthusiastic problem solver with passion for creating and building, from software and websites to books and bonsai. I consider myself a lifelong learner and try to learn something new each day.
 
-💻 I'm a developer.
+I'm currently working at [The Migus Group](https://github.com/The-Migus-Group) where I wear multiple hats as the Director of Technology and Operations.
 
-📝 I'm a writer, who [amongst other things](https://endlesstrax.com/writing/), has authored both [fiction and non-fiction books](https://endlesstrax.com/books).
+## A few other things about me:
+
+📝 I'm a writer, who has authored both [fiction and non-fiction books](https://rickywhite.net/books).
 
 👨‍⚕️ I used to be a registered nurse. 
 
-🥋 I'm also a [martial artist](https://endlesstrax.com/brief-history-of-my-martial-arts-journey/), holding the rank of Nidan (second-degree black belt) in Shaolin Kempo.
+🥋 I'm also a [martial artist](https://rickywhite.net/blog/brief-history-of-my-martial-arts-journey), holding the rank of Nidan (second-degree black belt) in Shaolin Kempo.
 
 🌲 I collect and maintain a modest Bonsai collection
 
@@ -19,4 +21,4 @@
 
 ---
 
-If you want to say hi, you can [find me on Twitter](https://twitter.com/endlesstrax/) or [LinkedIn](https://www.linkedin.com/in/rickywhite/).
+If you want to say hi, you can get in touch over [here](https://rickywhite.net/contact).
