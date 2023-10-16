@@ -15,7 +15,7 @@ I'm currently working at [The Migus Group](https://github.com/The-Migus-Group) w
 🌲 I collect and maintain a modest Bonsai collection
 
 💬 Favorite quote:
-> "Once your stop learning, you start dying" — Albert Einstein
+> "Once you stop learning, you start dying" — Albert Einstein
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endlesstrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
