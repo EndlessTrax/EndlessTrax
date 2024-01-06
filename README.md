@@ -17,8 +17,6 @@ I'm currently working at [The Migus Group](https://github.com/The-Migus-Group) w
 💬 Favorite quote:
 > "Once you stop learning, you start dying" — Albert Einstein
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endlesstrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 If you want to say hi, you can get in touch over [here](https://rickywhite.net/contact).
