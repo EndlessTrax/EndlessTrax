@@ -52,7 +52,7 @@ Go package for health and medical metrics.
 
 ## 📫 Connect
 
-**LinedIn:** [linkedin.com/in/rickywhite/](https://www.linkedin.com/in/rickywhite/)
+**LinkedIn:** [linkedin.com/in/rickywhite/](https://www.linkedin.com/in/rickywhite/)
 
 **Website:** [rickywhite.net](https://rickywhite.net)
 
