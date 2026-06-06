@@ -5,7 +5,7 @@
 [![Go](https://img.shields.io/badge/Go-Proficient-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![C#](https://img.shields.io/badge/C%23-Experienced-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-Software engineer specializing in **Python**, **Go**, and **Identity & Access Management**. Technical writer @ [Real Python](https://realpython.com/).
+Software engineer specializing in **Python**, **Go**, and **Identity & Access Management**. Technical writer at [Real Python](https://realpython.com/).
 
 ---
 
@@ -13,7 +13,7 @@ Software engineer specializing in **Python**, **Go**, and **Identity & Access Ma
 
 **Languages:** Python • Go • PowerShell • C#/.NET • JavaScript/TypeScript
 
-**Frameworks:** Django • Flask • FastAPI • Gin • Hugo  • ASP.NET
+**Frameworks:** Django • Flask • FastAPI • Gin • Hugo • ASP.NET
 
 **Infrastructure:** Docker • IaC • AWS • Azure • PostgreSQL
 
@@ -29,11 +29,11 @@ Python CLI tool for detecting broken links in web projects. [Published on PyPI](
 
 ### [pgn-to-sqlite](https://github.com/EndlessTrax/pgn-to-sqlite) ⭐ 21
 
-Python tool for importing chess games from chess.com and lichess.org into SQLite databases. [Available on PyPI](https://pypi.org/project/pgn_to_sqlite/)
+Python tool for importing chess games from chess.com and lichess.org into SQLite databases. [Published on PyPI](https://pypi.org/project/pgn_to_sqlite/).
 
 ### [python-template-snippets](https://github.com/EndlessTrax/python-template-snippets) ⭐ 14
 
-VS Code extension, with over **100k downloads**, for Jinja2 and Django template snippets. Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RickyWhite.python-template-snippets).
+VS Code extension, with over **125k downloads**, for Jinja2 and Django template snippets. Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RickyWhite.python-template-snippets).
 
 ### [medkit](https://github.com/EndlessTrax/medkit)
 
@@ -56,6 +56,6 @@ Go package for health and medical metrics.
 
 **Website:** [rickywhite.net](https://rickywhite.net)
 
-**Ko-Fi**: [Buy Me a Coffee 🍵](https://ko-fi.com/everydayronin)
+**Ko-Fi:** [Buy Me a Coffee 🍵](https://ko-fi.com/everydayronin)
 
 *Building secure systems, writing clear code, and sharing knowledge with the developer community.*
