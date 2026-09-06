@@ -1,61 +1,128 @@
 # Ricky White
 
-[![Website](https://img.shields.io/badge/Web-rickywhite.net-3a6ea5?style=flat-square)](https://rickywhite.net)
-[![Python](https://img.shields.io/badge/Python-Expert-FFD43B?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-Proficient-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![C#](https://img.shields.io/badge/C%23-Experienced-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+Cybersecurity engineer and engineering leader specializing in **Identity & Access Management (IAM)**, **Privileged Access Management (PAM)**, **Zero Trust**, and secure platform engineering.
 
-Software engineer specializing in **Python**, **Go**, and **Identity & Access Management**. Technical writer at [Real Python](https://realpython.com/).
+I design and build security-focused systems, automation, and developer tooling using **Python**, **Go**, and modern cloud-native technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Identity & Security
 
-**Languages:** Python • Go • PowerShell • C#/.NET • JavaScript/TypeScript
+My work sits at the intersection of **identity, cybersecurity, and software engineering**, with a focus on building secure systems that are practical to operate and maintain.
 
-**Frameworks:** Django • Flask • FastAPI • Gin • Hugo • ASP.NET
-
-**Infrastructure:** Docker • IaC • AWS • Azure • PostgreSQL
-
-**IAM/Security:** PAM, FIDO2/WebAuthn • OAuth • SAML • OIDC • Passkeys
-
----
-
-## 📦 Open Source Projects
-
-### [pyanchor](https://github.com/EndlessTrax/pyanchor) ⭐ 66
-
-Python CLI tool for detecting broken links in web projects. [Published on PyPI](https://pypi.org/project/pyanchor/).
-
-### [pgn-to-sqlite](https://github.com/EndlessTrax/pgn-to-sqlite) ⭐ 21
-
-Python tool for importing chess games from chess.com and lichess.org into SQLite databases. [Published on PyPI](https://pypi.org/project/pgn_to_sqlite/).
-
-### [python-template-snippets](https://github.com/EndlessTrax/python-template-snippets) ⭐ 14
-
-VS Code extension, with over **125k downloads**, for Jinja2 and Django template snippets. Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RickyWhite.python-template-snippets).
-
-### [medkit](https://github.com/EndlessTrax/medkit)
-
-Go package for health and medical metrics.
+- Identity & Access Management (IAM)
+- Privileged Access Management (PAM)
+- Zero Trust Architecture
+- OAuth 2.x, OpenID Connect, SAML
+- FIDO2, WebAuthn, and passkeys
+- Identity governance and access controls
+- Security architecture and DevSecOps
+- Authentication and authorization systems
 
 ---
 
-## 🎯 Highlights
+## Engineering
 
-- Co-authored the [Solid-OIDC W3C specification](https://solidproject.org/TR/oidc) for decentralized authentication
-- Published [multiple Python packages on PyPI](https://pypi.org/user/endlesstrax/) with active community contributions
-- Technical writer creating [in-depth Python tutorials](https://realpython.com/team/rwhite/) and guides
-- Contributor to open-source DevSecOps and IAM projects
+I remain hands-on with software development, infrastructure, automation, and developer tooling.
+
+**Languages**
+
+Python · Go · PowerShell · C#/.NET · JavaScript/TypeScript
+
+**Platforms & Infrastructure**
+
+Docker · AWS · Azure · Infrastructure as Code · PostgreSQL · GitHub Actions · CI/CD
+
+**Application Development**
+
+FastAPI · Django · Flask · Gin · ASP.NET · REST APIs · CLI tooling
 
 ---
 
-## 📫 Connect
+## Selected Work
 
-**LinkedIn:** [linkedin.com/in/rickywhite/](https://www.linkedin.com/in/rickywhite/)
+### Solid-OIDC
 
-**Website:** [rickywhite.net](https://rickywhite.net)
+Former Editor of the [Solid-OIDC specification](https://solidproject.org/TR/oidc), defining authentication and identity behavior for the decentralized Solid ecosystem.
 
-**Ko-Fi:** [Buy Me a Coffee 🍵](https://ko-fi.com/everydayronin)
+The work applies OpenID Connect and related web identity standards to distributed systems where identity, applications, and data may be controlled by separate parties.
 
-*Building secure systems, writing clear code, and sharing knowledge with the developer community.*
+### Technical Writing
+
+Published in-depth Python tutorials and technical guides with [Real Python](https://realpython.com/team/rwhite/), translating complex engineering topics into practical material for developers.
+
+### Open Source
+
+I build and maintain open-source tools focused on developer productivity, automation, and practical software engineering.
+
+Several of my projects have been distributed through **PyPI**, the **Visual Studio Marketplace**, and GitHub.
+
+---
+
+## Selected Projects
+
+### [pyanchor](https://github.com/EndlessTrax/pyanchor)
+
+Python command-line tool for detecting broken links in web projects.
+
+- Published on [PyPI](https://pypi.org/project/pyanchor/)
+- Designed for automation and CI workflows
+- Focused on fast, repeatable link validation
+
+### [python-template-snippets](https://github.com/EndlessTrax/python-template-snippets)
+
+VS Code extension providing Jinja2 and Django template snippets.
+
+- More than **125,000 downloads**
+- Available through the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RickyWhite.python-template-snippets)
+
+### [pgn-to-sqlite](https://github.com/EndlessTrax/pgn-to-sqlite)
+
+Python tooling for importing chess game data from Chess.com and Lichess into SQLite databases.
+
+- Published on [PyPI](https://pypi.org/project/pgn_to_sqlite/)
+- Demonstrates CLI design, external API integration, and structured data processing
+
+---
+
+## Engineering Principles
+
+I prefer engineering practices that optimize for long-term security, maintainability, and operational clarity.
+
+- Treat security and reliability as design constraints rather than post-release concerns.
+- Require review and automated CI validation before changes reach the primary branch.
+- Prefer small, well-understood dependency footprints and justify new dependencies.
+- Keep documentation synchronized with implementation.
+- Use explicit versioning and document breaking changes.
+- Favor short-lived branches and pull-request-driven development.
+
+---
+
+## Current Interests
+
+I'm particularly interested in problems involving:
+
+- Identity security and privileged access
+- Authentication and authorization architecture
+- Zero Trust systems
+- Security automation
+- Developer security tooling
+- AI-assisted engineering and security workflows
+- Python and Go infrastructure tooling
+- Secure software delivery and DevSecOps
+
+---
+
+## Connect
+
+**Website:** [rickywhite.net](https://rickywhite.net/)
+
+**LinkedIn:** [linkedin.com/in/rickywhite](https://www.linkedin.com/in/rickywhite/)
+
+**Technical Writing:** [Real Python](https://realpython.com/team/rwhite/)
+
+**PyPI:** [pypi.org/user/endlesstrax](https://pypi.org/user/endlesstrax/)
+
+---
+
+*Building secure systems at the intersection of identity, security, and software engineering.*
